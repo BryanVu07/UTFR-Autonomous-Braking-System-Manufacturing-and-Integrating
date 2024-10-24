@@ -1,6 +1,12 @@
-## UT24 UTFR-Autonomous-Braking-System- Manufacturing and Integration
+## UT24 UTFR-Autonomous-Braking-System - Manufacturing and Integration
 
-1.0 EBS Pistons Engage with Pedal Tray (UT24 - Owner: UT24 Brakes Lead - Mo Taban)
+## Overview
+This README provides an overview of the key accomplishments and reference images related to the development of the Mechanical Braking Systems for the University of Toronto Formula Racing (UTFR) team's competition vehicles. The images included are for reference only and depict various stages of the design and manufacturing processes carried out by others.
+
+## Important Note
+I did not participate in any part of the manufacturing or integration of the Mechanical Braking Systems. All credit for the manufacturing, and integration belongs to the UT24 Brakes Lead - Mo Taban. The images provided are solely for reference and do not represent my personal contributions to the project.
+
+1.0 EBS Pistons Engage with Pedal Tray 
 
 ![image](https://github.com/user-attachments/assets/e3883ef9-206b-4d7d-b108-6082548577b8)
 
